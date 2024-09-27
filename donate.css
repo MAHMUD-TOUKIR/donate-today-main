@@ -1,0 +1,106 @@
+/* Header Styles  */
+.header {
+    width: 1440px;
+    height: 669px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    background-image: url('./images/donation6.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner {
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+}
+
+.banner .banner-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 79px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.banner .banner-description {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-align: center;
+}
+/* Btn styles  */
+.btn-primary {
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    margin-left: 350px;
+}
+/* Donate Today  */
+.donate-container {
+    display: flex;
+    gap: 24px;
+    margin-left: 380px;
+}
+.donate {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+    text-align: center;
+}
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.section-description {
+    color: #B3B3B3;
+    text-align: center;
+}
+/*donate  */
+.donate-2 {
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+    text-align: center;
+
+
+}
+
+.donate-description {
+    text-align: center;
+    color: #B3B3B3;
+    font-size: 13px;
+}
+
+.btn-donate {
+    height: 64px;
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    text-align: center;
+    margin-left: 640px;
+
+}
